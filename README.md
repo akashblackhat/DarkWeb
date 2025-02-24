@@ -28,7 +28,9 @@
        cd ShadowNet
    # 2. Install Dependencies
    ShadowNet requires Python and a few dependencies. You can install them using pip.
-        pip install -r requirements.txt
+   
+          pip install -r requirements.txt
+        
    The required libraries include:
 
     Flask for the web framework.
@@ -39,7 +41,9 @@
    # 3. Tor 🧅 Installation
    Local Installation (Recommended):   
    You need to have Tor installed locally for ShadowNet to function properly.
-         sudo apt install tor
+   
+          sudo apt install tor
+           
 # Start🧅 Tor on your local machine:
          tor
 # Usage
@@ -69,3 +73,5 @@ Submitting bug reports or feature requests.
 Improving the code.
 
 Enhancing the documentation. 
+
+# Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )

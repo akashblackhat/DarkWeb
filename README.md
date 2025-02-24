@@ -23,7 +23,7 @@
    First, clone the repository to your local machine
    
 
-       git clone https://github.com/yourusername/ShadowNet.git
+       git clone https://github.com/akashblackhat/ShadowNet.git
    
        cd ShadowNet
    # 2. Install Dependencies

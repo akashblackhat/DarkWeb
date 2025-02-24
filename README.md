@@ -68,4 +68,4 @@ Submitting bug reports or feature requests.
 
 Improving the code.
 
-Enhancing the documentation.
+Enhancing the documentation. 
